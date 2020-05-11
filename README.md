@@ -1,2 +1,1 @@
-### jiaxxi.github.io
-### Personal Webpage
+[Jiaxxi's Site](https://cttyss.github.io/jiaxxi.github.io/)
